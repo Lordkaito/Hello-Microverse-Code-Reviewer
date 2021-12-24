@@ -2,7 +2,7 @@
 
 # Project Name
 
-Additional description about the project and its features.
+This project is the first one to be created within the Microverse program, and it's meant to be an introduction to what we will be doing for the next few months.
 
 ## Built With
 
@@ -12,25 +12,30 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**To get started with this project, all you have to do is cloning it!**
 
+So in order to use this project, do the following:
+1. Clone this project.
+2. Once you get the projet in your computer, open it in your favorite text editor.
+3. Now, you can use either Live Server to open the project and see the changes you make, or you can just navigate to the file and open the index.html file with your favorite browser.
 
-To get a local copy up and running follow these simple example steps.
-
+If you are not into the software development world, you can just see the project using this link:
+[Link](https.//thisisjustafakelink.com)
 ### Prerequisites
 
-### Setup
+You don't need any prerequisites to use this project, just enjoy!
 
 ### Install
 
+No installation is needed, just clone the project and open it in your favorite text editor or browser.
+
 ### Usage
+
+To use this project, you can just navigate to the file and open the index.html file with your favorite browser, either chrome or firefox.
 
 ### Run tests
 
-### Deployment
-
-
+No tests were written for this project, but you can make your own tests if you want!
 
 ## Authors
 
@@ -51,9 +56,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Hat tip to anyone whose code was used.
 
 ## 📝 License
 
